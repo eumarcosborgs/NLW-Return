@@ -23,8 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br)
 - [Prisma](https://www.prisma.io)
 - [Jest](https://jestjs.io)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
 
 ## 🔖 Layout
 
@@ -51,15 +49,6 @@ $ npm run dev
 $ cd web
 $ npm install
 $ npm run dev
-```
-
-```sh
-# PARA O MOBILE
-$ cd mobile
-$ npm install
-$ npm run start
-
-# Após isso escaneie o código QR no seu aplicativo Expo
 ```
 
 ## ☕ Contatos
