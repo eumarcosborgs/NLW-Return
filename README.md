@@ -12,21 +12,6 @@
 
 ![image](https://user-images.githubusercontent.com/33640268/168653786-cc95c3e5-965a-40b6-8d18-d017aaba5a7f.png)
 
-## 🏃‍♂️Jornada
-
-Next Level Week Heat é a 8º edição desse evento oferecido pela [Rocketseat](https://rocketseat.com.br) para a comunidade.
-Nessa edição, na trilha Impulse, foi desenvolvida um widget completo e acessível que pode ser utilizado em múltiplos projetos para coletar feedbacks 
-dos usuários. 
-
-O backend da aplicação foi construído com NodeJS usando as melhores práticas de testes e com uma ferramenta incrível para lidar com o banco de dados que é o Prisma.
-Já no frontend foi utilizado ReactJS e como construtor utilizamos a ferramenta Vite que lidou com toda parte burocrática e nos possibilitou avançar de uma forma
-surpreendente. No frontend ainda utilizamos TailwindCSS que é uma mão na roda na hora de estilizar e deixar nosso app com uma cara elegante de forma rápida e fácil.
-
-A parte Mobile foi a melhor, construído com React Native e Expo, a aplicação possibilitou, consumindo o backend, fornecermos o feedback por meio do celular com uma 
-performance incrível e utilizando boas práticas de formatação, layouts, variáveis de cores e fontes.
-
-As aulas da trilha impulse foram ministradas por [Diego Fernandes](https://github.com/diego3g) e [Rodrigo](https://github.com/rodrigorgtic). 🚀
-
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
