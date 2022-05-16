@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://user-images.githubusercontent.com/71537090/.png" alt="Logo NLW-Return" />
+   <img src="https://user-images.githubusercontent.com/33640268/168653841-d337a417-510b-4b6d-878b-981c87c80a2b.png" alt="Logo NLW-Return" />
 </h1>
 
 <p align="center" margin-top="25px" >
@@ -10,7 +10,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/eumarcosborgs/NLW-Return?color=blueviolet">
 </p>
 
-![image](https://user-images.githubusercontent.com/71537090/167278997-56d6c6a9.png)
+![image](https://user-images.githubusercontent.com/33640268/168653786-cc95c3e5-965a-40b6-8d18-d017aaba5a7f.png)
 
 ## 🏃‍♂️Jornada
 
